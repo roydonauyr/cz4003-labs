@@ -1,4 +1,8 @@
 # cz4003-labs
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/roydonauyr/cz4003-labs)
+![GitHub repo size](https://img.shields.io/github/repo-size/roydonauyr/cz4003-labs)
+![GitHub language count](https://img.shields.io/github/languages/count/roydonauyr/cz4003-labs)
+![GitHub last commit](https://img.shields.io/github/last-commit/roydonauyr/cz4003-labs)
 
 Assignments for course CZ4003 - Computer Vision at Nanyang Technological University
 
